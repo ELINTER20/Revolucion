@@ -1,0 +1,22 @@
+{
+"short_name" : "revolucion",
+"name" : "revolucion mexicana",
+"icons" : [
+{
+"src" : "pikachu.jpg",
+"sizes" : "192x192",
+"type" : "image/jpg"
+
+}
+
+],
+"start_url" : "index.html",
+"display" : "standalone",
+"theme_color" : "#000000",
+"background_color" : "#ffffff",
+"categories" :[
+    "historia",
+    "revolucion",
+    "mexico"
+]
+}
